@@ -30,7 +30,7 @@ ul ul {
 
 section.lead h1 {
   color: #4553d3;
-  text-align: left;
+  text-align: center;
 }
 section.lead h1 strong {
   -webkit-text-stroke: 1px #4553d3;
